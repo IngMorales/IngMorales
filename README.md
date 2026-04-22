@@ -1,5 +1,5 @@
 # Ing. Aldair Morales Cuéllar
-### Systems Engineer | Web Developer | AI Integration Specialist | Athlete 🏃‍♂️
+### Systems Engineer | AI Integration Specialist | Electoral Software Architect
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Florencia,_Caquetá-brightgreen?style=flat-square&logo=googlemaps&logoColor=white" />
@@ -9,8 +9,13 @@
 
 ---
 
-### 🤖 Google Labs Ecosystem & AI
-I am actively exploring the frontier of agentic workflows and automated development. Currently integrated with:
+### 💻 About Me & My Focus
+I am a Systems Engineer focused entirely on building high-impact technological solutions. My core expertise lies in **AI-driven development** and architecting robust, **data-driven electoral software** designed specifically to optimize political campaigns and win elections.
+
+---
+
+### 🤖 AI & Google Ecosystem
+Actively exploring the frontier of agentic workflows, prompt engineering, and automated development.
 
 | Tool | Status | Badge |
 | :--- | :--- | :--- |
@@ -19,36 +24,34 @@ I am actively exploring the frontier of agentic workflows and automated developm
 
 ---
 
-### 🛠️ Professional Tech Stack
+### 🛠️ Extensive Tech Stack
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=php,nodejs,js" /><br />
-      <b>Backend & Scripting</b>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=php,nodejs,py" /><br />
+      <b>Backend & AI</b>
     </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman" /><br />
-      <b>Data & API</b>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /><br />
+      <b>Databases</b>
     </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /><br />
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" /><br />
       <b>Frontend</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=git,linux,postman,idea" /><br />
+      <b>Tools & Data</b>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏃‍♂️ Beyond the Code
-When I'm not architecting systems or debugging with AI, I'm likely:
-* **Competing:** 400m Hurdles Athlete. High performance in sports, high performance in code.
-* **Family:** Being the best dad to **Anthonella**.
-* **Exploring:** Researching new AI tools and web integrations.
+### 📈 GitHub Activity & Stats
+*(Auto-generated based on my daily commits and code contributions)*
 
----
-
-### 📈 GitHub Stats
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IngMorales&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngMorales&layout=compact&theme=tokyonight" />
